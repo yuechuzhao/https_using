@@ -1,5 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
     <dict>
         <key>items</key>
@@ -19,7 +17,9 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>https://raw.githubusercontent.com/yuechuzhao/https_using/master/ICON1.png</string>
+                        <string>
+                        https://raw.githubusercontent.com/yuechuzhao/https_using/master/ICON1.png
+                        </string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -27,23 +27,23 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>https://raw.githubusercontent.com/yuechuzhao/https_using/master/ICON1.png</string>
+                        <string>
+                        https://raw.githubusercontent.com/yuechuzhao/https_using/master/ICON1.png
+                        </string>
                     </dict>
                 </array>
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.archly.qise</string>
+                    <string>标识</string>
                     <key>bundle-version</key>
-                    <string>1</string>
+                    <string>版本号</string>
                     <key>kind</key>
                     <string>software</string>
-                    <key>subtitle</key>
-                    <string>内网测试版</string>
                     <key>title</key>
-                    <string>七色</string>
+                    <string>oa_app</string>
                 </dict>
             </dict>
         </array>
     </dict>
-</plist>   
+</plist>
