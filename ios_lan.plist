@@ -35,13 +35,13 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>标识</string>
+                    <string>com.archly.qise</string>
                     <key>bundle-version</key>
-                    <string>版本号</string>
+                    <string>1.0.0</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>oa_app</string>
+                    <string>七色</string>
                 </dict>
             </dict>
         </array>
